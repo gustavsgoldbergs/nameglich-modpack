@@ -29,7 +29,15 @@ Download the build from the [Relases](https://github.com/fn2006/PollyMC/releases
 Just download Fabric and install it. Then download source code zip of the modpack and put the mods inside your mods folder
 Access it by typing %appdata% in your Win+R run dialouge and going into AppData/Roaming/.minecraft/Mods.
 
+#### tip;
+# NEVER USE TLAUNCHER.
+## It is proven to be malware.
 
+#### Installation of the modpack
+
+Download the .mrpack file, open your launcher, and click 'Add instance'
+Select 'Import from zip' frome the sidebar, and click 'browse'. 
+Then select the mrpack file you just downloaded.
 
 
 
